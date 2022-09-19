@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GROCERY LIST</string>
+    <string name="starticon">icon</string>
+    <string name="fabdescription">TODO</string>
+    <string name="itemName">Name</string>
+    <string name="itemQuantity">Quantity</string>
+    <string name="itemPrice">Price</string>
+    <string name="totalCost">Total cost</string>
+    <string name="totalCostTitle">Total Cost</string>
+    <string name="add_item_to_list">Add Item To List</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_cost">Item Cost</string>
+    <string name="item_quantity_no_of_items">Item Quantity/ NO. Of Items</string>
+    <string name="delete">delete</string>
+</resources>
