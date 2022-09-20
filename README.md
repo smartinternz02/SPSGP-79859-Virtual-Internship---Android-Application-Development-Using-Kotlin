@@ -53,5 +53,6 @@ All Android Projects Module Wise
 </details>
 
 
-Thank You SmartBridge & GOOGLE!
+Thank You SmartBridge![googlelogo_color_272x92dp](https://user-images.githubusercontent.com/99789528/191173120-53cfdd94-992a-42f0-8865-db354bce021d.png)
+ & GOOGLE!
 ------------
