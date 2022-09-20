@@ -2,8 +2,8 @@ SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin
 ==================================
 Virtual Internship - Android Application Development Using Kotlin by SmartBridge
 
-Name: [Ghanshyam Swami](https://github.com/Ghanshyam112)
-Gmail:{Ghanshyamswami814@gmail.com}
+Name: [Ghanshyam Swami](https://github.com/Ghanshyam112)<br/>
+Gmail: Ghanshyamswami814@gmail.com
 ------------
 [Main Project - Grocery List](https://github.com/smartinternz02/SPSGP-79859-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Main%20Project)
 ------------
