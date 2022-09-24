@@ -5,8 +5,7 @@ Main Project
 
 Name: [Ghanshyam Swami](https://github.com/Ghanshyam112)<br/>
 [Demo Video](https://youtu.be/escaTzuAYOI)<br/>
-[Project Report(soon)]<br/>
-[Guided Project.pdf](https://github.com/smartinternz02/SPSGP-79859-Virtual-Internship---Android-Application-Development-Using-Kotlin/files/9637970/Guided.Project.pdf)<br/>
+[Project Report.pdf](https://github.com/smartinternz02/SPSGP-79859-Virtual-Internship---Android-Application-Development-Using-Kotlin/files/9637970/Guided.Project.pdf)<br/>
 Screenshots:
 
 <br/>
