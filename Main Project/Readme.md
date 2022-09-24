@@ -4,9 +4,11 @@ Virtual Internship - Android Application Development Using Kotlin by SmartBridge
 Main Project
 
 Name: [Ghanshyam Swami](https://github.com/Ghanshyam112)<br/>
-[Demo Video(soon)]
+[Demo Video](https://youtu.be/escaTzuAYOI)<br/>
 [Project Report(soon)]<br/>
+[Guided Project.pdf](https://github.com/smartinternz02/SPSGP-79859-Virtual-Internship---Android-Application-Development-Using-Kotlin/files/9637970/Guided.Project.pdf)<br/>
 Screenshots:
+
 <br/>
 <br/>
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/99789528/192080433-918e7785-022e-4e29-b2be-bce51061dfcd.gif)
