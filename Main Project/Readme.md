@@ -6,8 +6,10 @@ Main Project
 Name: [Ghanshyam Swami](https://github.com/Ghanshyam112)<br/>
 [Demo Video(soon)]
 [Project Report(soon)]<br/>
-Screenshots:<br/>
-
+Screenshots:
+<br/>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/99789528/192080433-918e7785-022e-4e29-b2be-bce51061dfcd.gif)
+<br/>
 
 ![image](https://user-images.githubusercontent.com/99789528/191167951-8c3932e9-8cd3-44df-ab41-b805534e65d7.png)
 ![image](https://user-images.githubusercontent.com/99789528/191168331-58695869-3832-45b3-aa18-6bfe446d386c.png)<br/>
