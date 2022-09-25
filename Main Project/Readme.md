@@ -11,7 +11,6 @@ Name: [Ghanshyam Swami](https://github.com/Ghanshyam112)<br/>
 Screenshots:
 <br/>
 for database i used room and live data
-=====================
 <br/>
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/99789528/192080845-5db5ae5f-4763-488f-868b-37a260d8fbb5.gif)
